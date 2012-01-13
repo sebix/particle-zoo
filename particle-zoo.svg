@@ -97,18 +97,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="509.69798"
-     inkscape:cy="239.63415"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="835.54515"
+     inkscape:cy="158.4235"
      inkscape:document-units="px"
      inkscape:current-layer="g5663"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="959"
-     inkscape:window-height="1120"
-     inkscape:window-x="960"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="1920"
+     inkscape:window-y="17"
      inkscape:window-maximized="0"
      inkscape:snap-page="true"
      inkscape:snap-grids="true"
@@ -125,6 +125,14 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="950,15"
+       id="guide3531" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1035,20"
+       id="guide3557" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -134,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2806,26 +2814,67 @@
                  style="baseline-shift:baseline;fill:#000000;fill-opacity:1">G</tspan></text>
             <text
                xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-weight:normal;text-align:end;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="672.89349"
-               y="1044.3622"
+               style="font-size:20px;font-style:normal;font-weight:normal;text-align:end;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+               x="667.90326"
+               y="897.08209"
                id="text5889"
                sodipodi:linespacing="178%"><tspan
                  sodipodi:role="line"
                  id="tspan5891"
-                 x="672.89349"
-                 y="1044.3622"
-                 style="font-size:6px">Sources:</tspan><tspan
+                 x="667.90326"
+                 y="897.08209"
+                 style="font-size:10px;font-style:normal;font-weight:normal;-inkscape-font-specification:Sans"><tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3551">URL</tspan>:</tspan><tspan
                  sodipodi:role="line"
-                 x="672.89349"
-                 y="1055.0422"
-                 style="font-size:6px"
-                 id="tspan5895">http://images-of-elements.com/particle-zoo/higgs-boson.php</tspan><tspan
+                 x="667.90326"
+                 y="914.88208"
+                 style="font-size:10px;font-style:normal;font-weight:normal;-inkscape-font-specification:Sans"
+                 id="tspan3539">http://github.com/sebix/particle-zoo</tspan><tspan
                  sodipodi:role="line"
-                 x="672.89349"
-                 y="1065.7222"
+                 x="667.90326"
+                 y="932.68207"
+                 style="font-size:10px;font-style:normal;font-weight:normal;-inkscape-font-specification:Sans"
+                 id="tspan3543"><tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3553">Licence</tspan>:</tspan><tspan
+                 sodipodi:role="line"
+                 x="667.90326"
+                 y="950.48212"
+                 style="font-size:10px;font-style:normal;font-weight:normal;-inkscape-font-specification:Sans"
+                 id="tspan3545">Creative Commons</tspan><tspan
+                 sodipodi:role="line"
+                 x="667.90326"
+                 y="968.2821"
+                 style="font-size:10px;font-style:normal;font-weight:normal;-inkscape-font-specification:Sans"
+                 id="tspan3547">Attribution-ShareAlike 3.0</tspan><tspan
+                 sodipodi:role="line"
+                 x="667.90326"
+                 y="986.08209"
+                 style="font-size:10px;font-style:normal;font-weight:normal;-inkscape-font-specification:Sans"
+                 id="tspan3549">Unported License.</tspan><tspan
+                 sodipodi:role="line"
+                 x="667.90326"
+                 y="1003.8821"
+                 style="font-size:10px;font-style:normal;font-weight:normal;-inkscape-font-specification:Sans"
+                 id="tspan3535"><tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3555">Sources</tspan>:</tspan><tspan
+                 sodipodi:role="line"
+                 x="667.90326"
+                 y="1021.6821"
+                 style="font-size:10px;font-style:normal;-inkscape-font-specification:Sans"
+                 id="tspan5895">http://images-of-elements.com/</tspan><tspan
+                 sodipodi:role="line"
+                 x="667.90326"
+                 y="1039.4822"
+                 style="font-size:10px;font-style:normal;-inkscape-font-specification:Sans"
+                 id="tspan3529">particle-zoo/higgs-boson.php</tspan><tspan
+                 sodipodi:role="line"
+                 x="667.90326"
+                 y="1057.2821"
                  id="tspan5893"
-                 style="font-size:6px">and Wikipedia</tspan></text>
+                 style="font-size:10px;font-style:normal;-inkscape-font-specification:Sans">and Wikipedia</tspan></text>
           </g>
         </g>
       </g>
