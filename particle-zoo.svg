@@ -98,10 +98,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="453.37417"
-     inkscape:cy="154.67174"
+     inkscape:cx="371.71326"
+     inkscape:cy="409.23242"
      inkscape:document-units="px"
-     inkscape:current-layer="g5349"
+     inkscape:current-layer="g5175"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2224,7 +2224,7 @@
                x="62.647415"
                style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
                xml:space="preserve"><tspan
-                 style="font-size:16px;fill:#a19f00;fill-opacity:1;stroke:none"
+                 style="font-size:16px;fill:#7b65ff;fill-opacity:1;stroke:none"
                  y="657.40906"
                  x="62.647415"
                  id="tspan4355"
@@ -3101,6 +3101,25 @@
                y="1055.2821"
                x="1083.9033"
                sodipodi:role="line">and Wikipedia</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:normal;font-weight:normal;text-align:end;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="1058.8936"
+             y="582.36218"
+             id="text3753"
+             sodipodi:linespacing="178%"><tspan
+               sodipodi:role="line"
+               id="tspan3755"
+               x="1058.8936"
+               y="582.36218">The <tspan
+   style="font-size:28px"
+   id="tspan3761">Particle Zoo</tspan></tspan><tspan
+               sodipodi:role="line"
+               x="1058.8936"
+               y="617.96216"
+               id="tspan3757">of the <tspan
+   style="font-style:italic;-inkscape-font-specification:Sans Italic"
+   id="tspan3759">Standard Model</tspan></tspan></text>
         </g>
       </g>
     </g>
