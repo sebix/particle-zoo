@@ -97,9 +97,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.257893"
-     inkscape:cx="712.76056"
-     inkscape:cy="281.34311"
+     inkscape:zoom="3.1931429"
+     inkscape:cx="829.2962"
+     inkscape:cy="578.33316"
      inkscape:document-units="px"
      inkscape:current-layer="g5349"
      showgrid="true"
@@ -996,7 +996,9 @@
                  style="font-size:8px;text-align:end;text-anchor:end;fill:#666666"
                  y="696.12976"
                  x="343.16873"
-                 sodipodi:role="line">[MeV/c2]</tspan></text>
+                 sodipodi:role="line">[MeV/c<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan3604">2</tspan>]</tspan></text>
             <text
                sodipodi:linespacing="178%"
                id="text4069"
@@ -2015,7 +2017,9 @@
                  x="364.22226"
                  y="486.55032"
                  style="font-size:8px;text-align:end;text-anchor:end;fill:#666666"
-                 id="tspan4273">[MeV/c2]</tspan></text>
+                 id="tspan4273">[MeV/c<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan3601">2</tspan>]</tspan></text>
             <text
                xml:space="preserve"
                style="font-size:20px;font-style:normal;font-weight:normal;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2691,7 +2695,9 @@
                  style="font-size:8px;text-align:end;text-anchor:end;fill:#666666"
                  y="486.55032"
                  x="364.22226"
-                 sodipodi:role="line">[GeV/c2]</tspan></text>
+                 sodipodi:role="line">[GeV/c<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan3606">2</tspan>]</tspan></text>
             <text
                sodipodi:linespacing="178%"
                id="text5400"
