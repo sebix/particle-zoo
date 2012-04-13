@@ -97,18 +97,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1289465"
-     inkscape:cx="529.68572"
-     inkscape:cy="335.32123"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="532.40108"
+     inkscape:cy="299.29478"
      inkscape:document-units="px"
      inkscape:current-layer="g5349"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="995"
+     inkscape:window-width="1920"
+     inkscape:window-height="1120"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      inkscape:snap-grids="true"
@@ -826,22 +826,6 @@
                  x="1262.5483"
                  id="tspan4173"
                  sodipodi:role="line">stable</tspan></text>
-            <text
-               sodipodi:linespacing="125%"
-               id="text3656"
-               y="1066.9176"
-               x="1006.8609"
-               style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               xml:space="preserve"><tspan
-                 style="font-size:16px;fill:#a19f00;fill-opacity:1;stroke:none"
-                 y="1066.9176"
-                 x="1006.8609"
-                 id="tspan3658"
-                 sodipodi:role="line">Spin: <tspan
-   style="font-size:65.00091553%;baseline-shift:super"
-   id="tspan3751">1</tspan>/<tspan
-   style="font-size:65.00091553%;baseline-shift:sub"
-   id="tspan3662">2</tspan></tspan></text>
           </g>
           <text
              sodipodi:linespacing="125%"
@@ -1916,9 +1900,14 @@
                y="578.37537"
                x="330.18259"
                sodipodi:role="line"
-               id="tspan4882">weak interaction</tspan><tspan
-               style="font-size:15px;text-align:end;text-anchor:end;fill:#666666"
+               id="tspan4882">interactions:</tspan><tspan
+               style="font-size:10px;text-align:end;text-anchor:end;fill:#666666"
                y="597.12537"
+               x="330.18259"
+               sodipodi:role="line"
+               id="tspan3739">weak interaction</tspan><tspan
+               style="font-size:10px;text-align:end;text-anchor:end;fill:#666666"
+               y="615.87537"
                x="330.18259"
                sodipodi:role="line"
                id="tspan4886">strong interaction</tspan></text>
@@ -2609,11 +2598,11 @@
                x="615.02386"
                y="412.75037"
                style="font-size:15px;text-align:end;text-anchor:end;fill:#666666" /><tspan
-               id="tspan5338"
                sodipodi:role="line"
                x="615.02386"
                y="431.50037"
-               style="font-size:15px;text-align:end;text-anchor:end;fill:#666666">Spin: 1</tspan></text>
+               style="font-size:15px;text-align:end;text-anchor:end;fill:#666666"
+               id="tspan3717">Spin: 1</tspan></text>
           <g
              transform="translate(654,-122)"
              id="g5340">
@@ -3014,18 +3003,18 @@
             <text
                xml:space="preserve"
                style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="224.93257"
-               y="484.62097"
+               x="250.93256"
+               y="474.62097"
                id="text3633"
                sodipodi:linespacing="125%"><tspan
                  id="tspan3635"
                  sodipodi:role="line"
-                 x="224.93257"
-                 y="484.62097"
+                 x="250.93256"
+                 y="474.62097"
                  style="font-size:10px;text-align:center;text-anchor:middle;fill:#666666" /><tspan
                  sodipodi:role="line"
-                 x="224.93257"
-                 y="497.12097"
+                 x="250.93256"
+                 y="487.12097"
                  style="font-size:10px;text-align:center;text-anchor:middle;fill:#666666"
                  id="tspan3638">force:</tspan></text>
           </g>
@@ -3164,7 +3153,7 @@
                style="font-size:10.5px;font-style:normal;font-weight:normal;fill:#0000ff;-inkscape-font-specification:Sans"
                y="868.27808"
                x="1087.9038"
-               sodipodi:role="line">http://github.com/sebix/particle-zoo</tspan><tspan
+               sodipodi:role="line">http://sebix.github.com/particle-zoo</tspan><tspan
                id="tspan3543"
                style="font-size:10.5px;font-style:normal;font-weight:normal;fill:#0000ff;-inkscape-font-specification:Sans"
                y="886.96808"
@@ -3205,7 +3194,7 @@
                style="font-size:10.5px;font-style:normal;-inkscape-font-specification:Sans"
                y="999.10809"
                x="1087.9038"
-               sodipodi:role="line">particle-zoo/higgs-boson.php</tspan><tspan
+               sodipodi:role="line">particle-zoo/</tspan><tspan
                style="font-size:10.5px;font-style:normal;-inkscape-font-specification:Sans"
                y="1017.7981"
                x="1087.9038"
@@ -3254,7 +3243,58 @@
                  height="32.256622"
                  x="641.37439"
                  y="203.24803" /></flowRegion><flowPara
-               id="flowPara4514" /></flowRoot>        </g>
+               id="flowPara4514" /></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text3613"
+             y="878.37537"
+             x="339.63327"
+             style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               style="font-size:15px;text-align:end;text-anchor:end;fill:#666666"
+               y="878.37537"
+               x="339.63327"
+               sodipodi:role="line"
+               id="tspan3615" /><tspan
+               style="font-size:15px;text-align:end;text-anchor:end;fill:#666666"
+               y="897.12537"
+               x="339.63327"
+               sodipodi:role="line"
+               id="tspan3705">obeys the Fermi–Dirac statistics</tspan><tspan
+               style="font-size:15px;text-align:end;text-anchor:end;fill:#666666"
+               y="915.87537"
+               x="339.63327"
+               sodipodi:role="line"
+               id="tspan3715">follow the Pauli exclusion principle</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:normal;font-weight:normal;text-align:end;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="470.22601"
+             y="130.32581"
+             id="text3719"
+             sodipodi:linespacing="178%"
+             transform="translate(48.89351,328.2677)"><tspan
+               sodipodi:role="line"
+               id="tspan3721"
+               x="470.22601"
+               y="130.32581" /></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3723"
+             y="429.75037"
+             x="488.37473"
+             style="font-size:15px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               style="font-size:15px;text-align:start;text-anchor:start;fill:#666666"
+               y="429.75037"
+               x="488.37473"
+               sodipodi:role="line"
+               id="tspan3727" /><tspan
+               id="tspan3729"
+               style="font-size:15px;text-align:start;text-anchor:start;fill:#666666"
+               y="448.50037"
+               x="488.37473"
+               sodipodi:role="line">obey Bose–Einstein statistics</tspan></text>
+        </g>
       </g>
     </g>
     <text
