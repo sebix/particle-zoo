@@ -98,8 +98,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="533.81529"
-     inkscape:cy="299.29478"
+     inkscape:cx="528.43894"
+     inkscape:cy="541.20287"
      inkscape:document-units="px"
      inkscape:current-layer="g5349"
      showgrid="true"
@@ -107,7 +107,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1120"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
@@ -145,6 +145,10 @@
        orientation="1,0"
        position="400,180"
        id="guide3628" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="514,731"
+       id="guide3670" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -172,13 +176,13 @@
            id="g5349"
            style="display:inline">
           <rect
-             ry="3.9222851"
-             y="343.24036"
-             x="70.569542"
-             height="197.46156"
-             width="1011.6637"
+             ry="4.2611513"
+             y="344.11057"
+             x="70.639656"
+             height="214.52126"
+             width="1011.5233"
              id="rect5322"
-             style="fill:#29c200;fill-opacity:0.18823529;stroke:#000000;stroke-width:3.32052755;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0" />
+             style="fill:#29c200;fill-opacity:0.18823529;stroke:#000000;stroke-width:3.46075487;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0" />
           <rect
              style="fill:#7b65ff;fill-opacity:0.18823529;stroke:#000000;stroke-width:3.45254445;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0"
              id="rect5292"
@@ -1874,54 +1878,53 @@
           <text
              sodipodi:linespacing="125%"
              id="text4042"
-             y="409.332"
-             x="-661.26062"
+             y="632.80066"
+             x="309.99509"
              style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7b65ff;fill-opacity:1;stroke:none;font-family:Sans"
-             xml:space="preserve"
-             transform="matrix(0,-1,1,0,0,0)"><tspan
+             xml:space="preserve"><tspan
                style="font-size:28px;fill:#7b65ff;fill-opacity:1"
-               y="409.332"
-               x="-661.26062"
+               y="632.80066"
+               x="309.99509"
                id="tspan4063"
                sodipodi:role="line">Hadrons</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text4066"
-             y="559.62537"
-             x="330.18259"
+             y="595.13727"
+             x="275.65256"
              style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
              xml:space="preserve"><tspan
                style="font-size:15px;text-align:end;text-anchor:end;fill:#666666"
-               y="559.62537"
-               x="330.18259"
+               y="595.13727"
+               x="275.65256"
                sodipodi:role="line"
                id="tspan4069" /><tspan
                style="font-size:15px;text-align:end;text-anchor:end;fill:#666666"
-               y="578.37537"
-               x="330.18259"
+               y="613.88727"
+               x="275.65256"
                sodipodi:role="line"
                id="tspan4882">interactions:</tspan><tspan
                style="font-size:10px;text-align:end;text-anchor:end;fill:#666666"
-               y="597.12537"
-               x="330.18259"
+               y="627.6535"
+               x="275.65256"
                sodipodi:role="line"
                id="tspan3739">weak interaction</tspan><tspan
                style="font-size:10px;text-align:end;text-anchor:end;fill:#666666"
-               y="615.87537"
-               x="330.18259"
+               y="640.1535"
+               x="275.65256"
                sodipodi:role="line"
                id="tspan4886">strong interaction</tspan></text>
           <g
              id="g5175"
              transform="translate(20,-122)">
             <rect
-               style="fill:#00d8f2;fill-opacity:0.6627451;stroke:#000000;stroke-width:1.85454905;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0"
+               style="fill:#00d8f2;fill-opacity:0.6627451;stroke:#000000;stroke-width:2.05006361;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0"
                id="rect4217"
-               width="403.09195"
-               height="154.58846"
-               x="54.874302"
-               y="488.84906"
-               ry="8.5493841" />
+               width="402.89648"
+               height="188.99294"
+               x="54.972057"
+               y="490.34683"
+               ry="10.4521" />
             <text
                xml:space="preserve"
                style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7b65ff;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1966,11 +1969,36 @@
                  x="60.058594"
                  y="607.67896"
                  style="fill:#000000;fill-opacity:1">D-Mesons</tspan><tspan
+                 sodipodi:role="line"
+                 x="60.058594"
+                 y="632.67896"
+                 style="fill:#000000;fill-opacity:1"
+                 id="tspan3660" /><tspan
+                 sodipodi:role="line"
+                 x="60.058594"
+                 y="653.69196"
+                 style="font-size:16px;fill:#000000;fill-opacity:1"
+                 id="tspan3664">η-Meson, ρ-Meson,  ω-Meson,  φ-Meson,</tspan><tspan
+                 sodipodi:role="line"
+                 x="60.058594"
+                 y="673.69196"
+                 style="font-size:16px;fill:#000000;fill-opacity:1"
+                 id="tspan3668">B-Meson, Y-Meson, J/ψ-Meson, ...</tspan><tspan
+                 sodipodi:role="line"
+                 x="60.058594"
+                 y="693.69196"
+                 style="fill:#000000;fill-opacity:1"
+                 id="tspan3653" /><tspan
+                 sodipodi:role="line"
+                 x="60.058594"
+                 y="713.69196"
+                 style="fill:#000000;fill-opacity:1"
+                 id="tspan3657" /><tspan
                  style="fill:#000000;fill-opacity:1"
                  id="tspan4235"
                  sodipodi:role="line"
                  x="60.058594"
-                 y="632.67896" /></text>
+                 y="733.69196" /></text>
             <text
                sodipodi:linespacing="178%"
                id="text4237"
@@ -2261,12 +2289,12 @@
             <text
                sodipodi:linespacing="125%"
                id="text4353"
-               y="657.40906"
+               y="695.40906"
                x="62.647415"
                style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
                xml:space="preserve"><tspan
                  style="font-size:16px;fill:#7b65ff;fill-opacity:1;stroke:none"
-                 y="657.40906"
+                 y="695.40906"
                  x="62.647415"
                  id="tspan4355"
                  sodipodi:role="line">consist of Quark + Antiquark</tspan></text>
@@ -2522,13 +2550,13 @@
             <text
                xml:space="preserve"
                style="font-size:20px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="457.29587"
-               y="657.40906"
+               x="453.03024"
+               y="674.13562"
                id="text3630"
                sodipodi:linespacing="125%"><tspan
                  sodipodi:role="line"
-                 x="457.29587"
-                 y="657.40906"
+                 x="453.03024"
+                 y="674.13562"
                  style="font-size:16px;text-align:end;text-anchor:end;fill:#7b65ff;fill-opacity:1;stroke:none"
                  id="tspan3634">≥ 104</tspan></text>
           </g>
@@ -2552,7 +2580,7 @@
           </g>
           <g
              id="g5314"
-             transform="translate(20,0)">
+             transform="matrix(0.93080998,0,0,0.83346484,53.291455,113.0212)">
             <rect
                transform="matrix(0.35614523,0.93443062,-0.93443062,0.35614523,0,0)"
                style="fill:#4b4b4b;fill-opacity:1;stroke:none"
@@ -3042,98 +3070,102 @@
                x="964.16205"
                y="410.09021"
                style="font-size:10px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">stable</tspan></text>
-          <rect
-             ry="2.7983141"
-             y="486.37784"
-             x="488.40308"
-             height="50.598621"
-             width="213.10471"
-             id="rect5665"
-             style="fill:#29c200;fill-opacity:0.6627451;stroke:#000000;stroke-width:0.77146035;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0" />
           <g
-             id="g3631">
-            <text
-               xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#29c200;fill-opacity:1;stroke:none;font-family:Sans"
-               x="493.55524"
-               y="485.36218"
-               id="text5667"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan5669"
-                 x="493.55524"
+             id="g3672"
+             transform="translate(0,8)">
+            <rect
+               style="fill:#29c200;fill-opacity:0.6627451;stroke:#000000;stroke-width:0.77146035;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0"
+               id="rect5665"
+               width="213.10471"
+               height="50.598621"
+               x="488.40308"
+               y="486.37784"
+               ry="2.7983141" />
+            <g
+               id="g3631">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5667"
                  y="485.36218"
-                 style="font-size:24px;fill:#29c200;fill-opacity:1;stroke:none">hypothetic</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="494.05859"
-               y="505.67896"
-               id="text5671"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan5673"
-                 x="494.05859"
+                 x="493.55524"
+                 style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#29c200;fill-opacity:1;stroke:none;font-family:Sans"
+                 xml:space="preserve"><tspan
+                   style="font-size:24px;fill:#29c200;fill-opacity:1;stroke:none"
+                   y="485.36218"
+                   x="493.55524"
+                   id="tspan5669"
+                   sodipodi:role="line">hypothetic</tspan></text>
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text5671"
                  y="505.67896"
-                 style="fill:#000000;fill-opacity:1">Higgs-Boson</tspan><tspan
-                 style="fill:#000000;fill-opacity:1"
-                 id="tspan5681"
-                 sodipodi:role="line"
                  x="494.05859"
-                 y="530.67896">Graviton</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-size:20px;font-style:normal;font-weight:normal;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="694.22229"
-               y="505.67896"
-               id="text5717"
-               sodipodi:linespacing="178%"><tspan
-                 sodipodi:role="line"
-                 x="694.22229"
+                 style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                 xml:space="preserve"><tspan
+                   style="fill:#000000;fill-opacity:1"
+                   y="505.67896"
+                   x="494.05859"
+                   id="tspan5673"
+                   sodipodi:role="line">Higgs-Boson</tspan><tspan
+                   y="530.67896"
+                   x="494.05859"
+                   sodipodi:role="line"
+                   id="tspan5681"
+                   style="fill:#000000;fill-opacity:1">Graviton</tspan></text>
+              <text
+                 sodipodi:linespacing="178%"
+                 id="text5717"
                  y="505.67896"
-                 style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
-                 id="tspan5719">0</tspan><tspan
-                 id="tspan5727"
-                 sodipodi:role="line"
                  x="694.22229"
-                 y="530.59894"
-                 style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1">2</tspan></text>
-            <text
-               sodipodi:linespacing="125%"
-               id="text5737"
-               y="472.88043"
-               x="694.97168"
-               style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               xml:space="preserve"><tspan
-                 style="font-size:10px;text-align:end;text-anchor:end;fill:#666666"
+                 style="font-size:20px;font-style:normal;font-weight:normal;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                 xml:space="preserve"><tspan
+                   id="tspan5719"
+                   style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
+                   y="505.67896"
+                   x="694.22229"
+                   sodipodi:role="line">0</tspan><tspan
+                   style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
+                   y="530.59894"
+                   x="694.22229"
+                   sodipodi:role="line"
+                   id="tspan5727">2</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                 x="694.97168"
                  y="472.88043"
-                 x="694.97168"
-                 sodipodi:role="line"
-                 id="tspan5739" /><tspan
-                 style="font-size:10px;text-align:end;text-anchor:end;fill:#666666"
-                 y="485.38043"
-                 x="694.97168"
-                 sodipodi:role="line"
-                 id="tspan5743">Spin</tspan></text>
-            <text
-               sodipodi:linespacing="125%"
-               id="text5767"
-               y="505.67896"
-               x="626.05859"
-               style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               xml:space="preserve"><tspan
+                 id="text5737"
+                 sodipodi:linespacing="125%"><tspan
+                   id="tspan5739"
+                   sodipodi:role="line"
+                   x="694.97168"
+                   y="472.88043"
+                   style="font-size:10px;text-align:end;text-anchor:end;fill:#666666" /><tspan
+                   id="tspan5743"
+                   sodipodi:role="line"
+                   x="694.97168"
+                   y="485.38043"
+                   style="font-size:10px;text-align:end;text-anchor:end;fill:#666666">Spin</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                 x="626.05859"
                  y="505.67896"
-                 x="626.05859"
-                 sodipodi:role="line"
-                 id="tspan5769"
-                 style="fill:#000000;fill-opacity:1">H<tspan
-   style="font-size:65.00091553%;baseline-shift:sub"
-   id="tspan5805">0</tspan></tspan><tspan
-                 id="tspan5783"
-                 y="530.67896"
-                 x="626.05859"
-                 sodipodi:role="line"
-                 style="baseline-shift:baseline;fill:#000000;fill-opacity:1">G</tspan></text>
+                 id="text5767"
+                 sodipodi:linespacing="125%"><tspan
+                   style="fill:#000000;fill-opacity:1"
+                   id="tspan5769"
+                   sodipodi:role="line"
+                   x="626.05859"
+                   y="505.67896">H<tspan
+   id="tspan5805"
+   style="font-size:65.00091553%;baseline-shift:sub">0</tspan></tspan><tspan
+                   style="baseline-shift:baseline;fill:#000000;fill-opacity:1"
+                   sodipodi:role="line"
+                   x="626.05859"
+                   y="530.67896"
+                   id="tspan5783">G</tspan></text>
+            </g>
           </g>
           <text
              sodipodi:linespacing="178%"
@@ -3218,18 +3250,18 @@
              xml:space="preserve"
              style="font-size:20px;font-style:normal;font-weight:normal;text-align:end;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
              x="1058.8936"
-             y="582.36218"
+             y="602.36218"
              id="text3753"
              sodipodi:linespacing="178%"><tspan
                sodipodi:role="line"
                id="tspan3755"
                x="1058.8936"
-               y="582.36218">The <tspan
+               y="602.36218">The <tspan
    style="font-size:28px"
    id="tspan3761">Particle Zoo</tspan></tspan><tspan
                sodipodi:role="line"
                x="1058.8936"
-               y="620.84723"
+               y="640.84723"
                id="tspan3757">of the <tspan
    style="font-style:italic;-inkscape-font-specification:Sans Italic"
    id="tspan3759">Standard Model</tspan></tspan></text>
