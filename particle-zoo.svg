@@ -14,7 +14,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="particle-zoo.svg">
   <defs
      id="defs4">
@@ -97,18 +97,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="528.43894"
-     inkscape:cy="541.20287"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="816.12396"
+     inkscape:cy="649.26191"
      inkscape:document-units="px"
-     inkscape:current-layer="g5349"
+     inkscape:current-layer="g5340"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1120"
-     inkscape:window-x="1920"
-     inkscape:window-y="25"
+     inkscape:window-height="1123"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      inkscape:snap-grids="true"
@@ -463,17 +463,23 @@
                  id="tspan4130"
                  sodipodi:role="line"
                  x="1030.0206"
-                 y="988.82361">Electron-Neutrino</tspan><tspan
+                 y="988.82361">Electron<tspan
+   style="font-size:12px"
+   id="tspan3730">-Neutrino</tspan></tspan><tspan
                  style="fill:#000077;fill-opacity:1"
                  id="tspan4132"
                  sodipodi:role="line"
                  x="1030.0206"
-                 y="1013.8236">Muon-Neutrino</tspan><tspan
+                 y="1013.8236">Muon<tspan
+   style="font-size:12px"
+   id="tspan3732">-Neutrino</tspan></tspan><tspan
                  style="fill:#000077;fill-opacity:1"
                  id="tspan4134"
                  sodipodi:role="line"
                  x="1030.0206"
-                 y="1038.8236">Tauon-Neutrino</tspan></text>
+                 y="1038.8236">Tauon<tspan
+   style="font-size:12px"
+   id="tspan3734">-Neutrino</tspan></tspan></text>
             <text
                sodipodi:linespacing="178%"
                id="text3803"
@@ -1395,27 +1401,39 @@
                    sodipodi:role="line"
                    id="tspan3921"
                    x="71.164986"
-                   y="927.67896">Up-Quark</tspan><tspan
+                   y="927.67896">Up<tspan
+   style="font-size:12px"
+   id="tspan3713">-Quark</tspan></tspan><tspan
                    sodipodi:role="line"
                    x="71.164986"
                    y="952.67896"
-                   id="tspan3923">Down-Quark</tspan><tspan
+                   id="tspan3923">Down<tspan
+   style="font-size:12px"
+   id="tspan3718">-Quark</tspan></tspan><tspan
                    sodipodi:role="line"
                    x="71.164986"
                    y="977.67896"
-                   id="tspan3925">Charm-Quark</tspan><tspan
+                   id="tspan3925">Charm<tspan
+   style="font-size:12px"
+   id="tspan3722">-Quark</tspan></tspan><tspan
                    sodipodi:role="line"
                    x="71.164986"
                    y="1002.679"
-                   id="tspan3983">Strange-Quark</tspan><tspan
+                   id="tspan3983">Strange<tspan
+   style="font-size:12px"
+   id="tspan3724">-Quark</tspan></tspan><tspan
                    sodipodi:role="line"
                    x="71.164986"
                    y="1027.679"
-                   id="tspan3985">Top-Quark</tspan><tspan
+                   id="tspan3985">Top<tspan
+   style="font-size:12px"
+   id="tspan3726">-Quark</tspan></tspan><tspan
                    sodipodi:role="line"
                    x="71.164986"
                    y="1052.679"
-                   id="tspan3987">Bottom-Quark</tspan></text>
+                   id="tspan3987">Bottom<tspan
+   style="font-size:12px"
+   id="tspan3728">-Quark</tspan></tspan></text>
               <text
                  xml:space="preserve"
                  style="font-size:20px;font-style:normal;font-weight:normal;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1968,7 +1986,9 @@
                  sodipodi:role="line"
                  x="60.058594"
                  y="607.67896"
-                 style="fill:#000000;fill-opacity:1">D-Mesons</tspan><tspan
+                 style="fill:#000000;fill-opacity:1">D<tspan
+   style="font-size:12px"
+   id="tspan3736">-Mesons</tspan></tspan><tspan
                  sodipodi:role="line"
                  x="60.058594"
                  y="632.67896"
@@ -2635,13 +2655,13 @@
              transform="translate(654,-122)"
              id="g5340">
             <rect
-               ry="7.2508059"
-               y="488.80829"
-               x="54.833527"
-               height="131.10779"
-               width="368.22723"
+               ry="8.549902"
+               y="488.87823"
+               x="54.903465"
+               height="154.59782"
+               width="368.08737"
                id="rect5342"
-               style="fill:#29c200;fill-opacity:0.6627451;stroke:#000000;stroke-width:1.632375;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0" />
+               style="fill:#29c200;fill-opacity:0.6627451;stroke:#000000;stroke-width:1.77224946;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0" />
             <text
                sodipodi:linespacing="125%"
                id="text5344"
@@ -2675,7 +2695,9 @@
                  y="557.67896"
                  x="60.058594"
                  sodipodi:role="line"
-                 id="tspan5574">W-Boson</tspan><tspan
+                 id="tspan5574">W<tspan
+   style="font-size:12px"
+   id="tspan3675">-Boson</tspan></tspan><tspan
                  style="fill:#000000;fill-opacity:1"
                  y="582.67896"
                  x="60.058594"
@@ -2685,7 +2707,16 @@
                  x="60.058594"
                  sodipodi:role="line"
                  id="tspan5360"
-                 style="fill:#000000;fill-opacity:1">Z-Boson</tspan></text>
+                 style="fill:#000000;fill-opacity:1">Z<tspan
+   style="font-size:12px"
+   id="tspan3673">-Boson</tspan></tspan><tspan
+                 y="632.67896"
+                 x="60.058594"
+                 sodipodi:role="line"
+                 style="fill:#000000;fill-opacity:1"
+                 id="tspan3630">Higgs<tspan
+   style="font-size:12px"
+   id="tspan3669">-Boson</tspan></tspan></text>
             <text
                xml:space="preserve"
                style="font-size:20px;font-style:normal;font-weight:normal;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2730,15 +2761,22 @@
                  x="378.22226"
                  y="632.27893"
                  style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
-                 id="tspan5386" /><tspan
+                 id="tspan3644">125<tspan
+   style="font-size:8px"
+   id="tspan3738">-126</tspan></tspan><tspan
                  sodipodi:role="line"
                  x="378.22226"
                  y="657.19897"
+                 style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
+                 id="tspan5386" /><tspan
+                 sodipodi:role="line"
+                 x="378.22226"
+                 y="682.11896"
                  style="text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
                  id="tspan5388" /><tspan
                  sodipodi:role="line"
                  x="378.22226"
-                 y="682.11896"
+                 y="707.03894"
                  style="text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
                  id="tspan5390" /></text>
             <text
@@ -2796,7 +2834,12 @@
                  y="607.35895"
                  x="420.22226"
                  sodipodi:role="line"
-                 id="tspan5412">0</tspan></text>
+                 id="tspan5412">0</tspan><tspan
+                 style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
+                 y="632.27893"
+                 x="420.22226"
+                 sodipodi:role="line"
+                 id="tspan3646">0</tspan></text>
             <text
                xml:space="preserve"
                style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2883,10 +2926,17 @@
                  x="320.22226"
                  y="632.17896"
                  style="font-size:10px;text-align:end;line-height:249.00000095%;text-anchor:end;fill:#ff2a2a;fill-opacity:1"
-                 id="tspan5480" /><tspan
+                 id="tspan3636">3×10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan3640">−22</tspan></tspan><tspan
                  sodipodi:role="line"
                  x="320.22226"
                  y="657.07898"
+                 style="font-size:10px;text-align:end;line-height:249.00000095%;text-anchor:end;fill:#ff2a2a;fill-opacity:1"
+                 id="tspan5480" /><tspan
+                 sodipodi:role="line"
+                 x="320.22226"
+                 y="681.97894"
                  style="font-size:10px;text-align:end;line-height:249.00000095%;text-anchor:end;fill:#ff2a2a;fill-opacity:1"
                  id="tspan5482" /></text>
             <text
@@ -2928,7 +2978,12 @@
                  y="607.67896"
                  id="tspan5524">Z<tspan
    style="font-size:65.00091553%;baseline-shift:super"
-   id="tspan5512">0</tspan></tspan></text>
+   id="tspan5512">0</tspan></tspan><tspan
+                 style="baseline-shift:baseline;fill:#000000;fill-opacity:1"
+                 sodipodi:role="line"
+                 x="160.05859"
+                 y="632.67896"
+                 id="tspan3632">H</tspan></text>
             <text
                sodipodi:linespacing="178%"
                id="text3559"
@@ -2961,19 +3016,24 @@
                  y="607.35895"
                  x="278.22226"
                  sodipodi:role="line">1</tspan><tspan
-                 id="tspan3579"
                  style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
                  y="632.27893"
+                 x="278.22226"
+                 sodipodi:role="line"
+                 id="tspan3648">0</tspan><tspan
+                 id="tspan3579"
+                 style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
+                 y="657.19897"
                  x="278.22226"
                  sodipodi:role="line" /><tspan
                  id="tspan3581"
                  style="text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
-                 y="657.19897"
+                 y="682.11896"
                  x="278.22226"
                  sodipodi:role="line" /><tspan
                  id="tspan3583"
                  style="text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
-                 y="682.11896"
+                 y="707.03894"
                  x="278.22226"
                  sodipodi:role="line" /></text>
             <text
@@ -3031,20 +3091,37 @@
             <text
                xml:space="preserve"
                style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               x="250.93256"
+               x="248.93256"
                y="474.62097"
                id="text3633"
                sodipodi:linespacing="125%"><tspan
                  id="tspan3635"
                  sodipodi:role="line"
-                 x="250.93256"
+                 x="248.93256"
                  y="474.62097"
                  style="font-size:10px;text-align:center;text-anchor:middle;fill:#666666" /><tspan
                  sodipodi:role="line"
-                 x="250.93256"
+                 x="248.93256"
                  y="487.12097"
                  style="font-size:10px;text-align:center;text-anchor:middle;fill:#666666"
                  id="tspan3638">force:</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               x="224.93257"
+               y="618.62097"
+               id="text3754"
+               sodipodi:linespacing="125%"><tspan
+                 id="tspan3756"
+                 sodipodi:role="line"
+                 x="224.93257"
+                 y="618.62097"
+                 style="font-size:10px;text-align:center;text-anchor:middle;fill:#666666" /><tspan
+                 sodipodi:role="line"
+                 x="224.93257"
+                 y="631.12097"
+                 style="font-size:10px;text-align:center;text-anchor:middle;fill:#666666"
+                 id="tspan3758">weak + Higgs</tspan></text>
           </g>
           <text
              sodipodi:linespacing="125%"
@@ -3074,13 +3151,13 @@
              id="g3672"
              transform="translate(0,8)">
             <rect
-               style="fill:#29c200;fill-opacity:0.6627451;stroke:#000000;stroke-width:0.77146035;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0"
+               style="fill:#29c200;fill-opacity:0.6627451;stroke:#000000;stroke-width:0.5720765;stroke-miterlimit:4;stroke-opacity:0.38425927;stroke-dasharray:none;stroke-dashoffset:0"
                id="rect5665"
-               width="213.10471"
-               height="50.598621"
-               x="488.40308"
-               y="486.37784"
-               ry="2.7983141" />
+               width="213.30409"
+               height="27.797998"
+               x="488.30338"
+               y="486.27814"
+               ry="1.5373448" />
             <g
                id="g3631">
               <text
@@ -3102,12 +3179,7 @@
                  x="494.05859"
                  style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
                  xml:space="preserve"><tspan
-                   style="fill:#000000;fill-opacity:1"
                    y="505.67896"
-                   x="494.05859"
-                   id="tspan5673"
-                   sodipodi:role="line">Higgs-Boson</tspan><tspan
-                   y="530.67896"
                    x="494.05859"
                    sodipodi:role="line"
                    id="tspan5681"
@@ -3119,13 +3191,8 @@
                  x="694.22229"
                  style="font-size:20px;font-style:normal;font-weight:normal;line-height:177.99999714%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
                  xml:space="preserve"><tspan
-                   id="tspan5719"
                    style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
                    y="505.67896"
-                   x="694.22229"
-                   sodipodi:role="line">0</tspan><tspan
-                   style="font-size:14px;text-align:end;line-height:177.99999714%;text-anchor:end;fill:#000000;fill-opacity:1"
-                   y="530.59894"
                    x="694.22229"
                    sodipodi:role="line"
                    id="tspan5727">2</tspan></text>
@@ -3153,17 +3220,10 @@
                  y="505.67896"
                  id="text5767"
                  sodipodi:linespacing="125%"><tspan
-                   style="fill:#000000;fill-opacity:1"
-                   id="tspan5769"
-                   sodipodi:role="line"
-                   x="626.05859"
-                   y="505.67896">H<tspan
-   id="tspan5805"
-   style="font-size:65.00091553%;baseline-shift:sub">0</tspan></tspan><tspan
                    style="baseline-shift:baseline;fill:#000000;fill-opacity:1"
                    sodipodi:role="line"
                    x="626.05859"
-                   y="530.67896"
+                   y="505.67896"
                    id="tspan5783">G</tspan></text>
             </g>
           </g>
@@ -3326,6 +3386,26 @@
                y="448.50037"
                x="488.37473"
                sodipodi:role="line">obey Bose–Einstein statistics</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+             x="366.62994"
+             y="-936.70459"
+             id="text5737-7"
+             sodipodi:linespacing="125%"
+             transform="matrix(0,1,-1,0,0,0)"
+             inkscape:transform-center-x="9.9301311"
+             inkscape:transform-center-y="-6.7405394"><tspan
+               id="tspan5739-7"
+               sodipodi:role="line"
+               x="366.62994"
+               y="-936.70459"
+               style="font-size:10px;text-align:end;text-anchor:end;fill:#666666" /><tspan
+               id="tspan5743-7"
+               sodipodi:role="line"
+               x="366.62994"
+               y="-924.20459"
+               style="font-size:10px;text-align:end;text-anchor:end;fill:#666666">Spin</tspan></text>
         </g>
       </g>
     </g>
